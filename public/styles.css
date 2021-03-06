@@ -43,7 +43,7 @@ body {
         padding: 5px;
         max-width: 400px;
         background: #240000;
-        background: linear-gradient(90deg, rgba(145, 37, 233, 0.842) 0%, rgb(45, 232, 76) 0%, rgb(13, 207, 55) 100%);
+        background: linear-gradient(90deg, rgba(145, 37, 233, 0.842) 0%, rgb(45, 232, 76) 0%, rgb(135, 27, 255, 0.842) 100%);
     }
   
     .name {
