@@ -8,7 +8,7 @@ body {
         justify-content: center;
         display: flex;
     }   
-    
+
     .flex-outer {
         max-width: 700px;
     }
@@ -36,4 +36,16 @@ body {
   
     .suggestions li {
         display: block;
+    }
+
+    li {
+        margin: 5px;
+        padding: 5px;
+        max-width: 400px;
+        background: #240000;
+        background: linear-gradient(90deg, rgba(8, 241, 27, 0.842) 0%, rgb(45, 232, 76) 0%, rgb(13, 207, 55) 100%);
+    }
+  
+    .name {
+        font-size: 25px;
     }
