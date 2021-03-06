@@ -1,0 +1,10 @@
+body {
+    background-color: #fded93;
+    box-sizing: border-box;
+    font-family: 'Monospace';
+ }
+  
+    .wrapper {
+        justify-content: center;
+        display: flex;
+    }
