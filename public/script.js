@@ -29,4 +29,8 @@ function displayMatches() {
     suggestions.innerHTML=delEmptyAddress; 
  }
 
+const searchInput = document.querySelector('.search');
+const suggestions = document.querySelector('.suggestions');
  
+searchInput.addEventListener('change', displayMatches);
+searchInput.addEventListener('keyup', displayMatches);
